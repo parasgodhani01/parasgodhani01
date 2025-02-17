@@ -1,5 +1,7 @@
 # 💫 About Me:
-🚀 AI Enthusiast | Learning & Building AI Solutions<br>I'm currently working on an AI-based project to expand my knowledge and skills in artificial intelligence. Passionate about data science, machine learning, and automation. Always exploring new technologies and experimenting with AI-driven solutions.
+🚀 AI Enthusiast | Learning & Building AI Solutions<br>I'm currently working on an AI-based project to expand my knowledge and skills in artificial intelligence.   
+Passionate about data science, machine learning, and automation.  
+Always exploring new technologies and experimenting with AI-driven solutions.
 
 
 ## 🌐 Socials:
