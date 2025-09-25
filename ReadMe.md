@@ -1,5 +1,21 @@
 # 💫 About Me:
-🚀 AI Enthusiast | Learning & Building AI Solutions<br>I'm currently working on an AI-based project to expand my knowledge and skills in artificial intelligence.<br>Passionate about data science, machine learning, and automation.<br>Always exploring new technologies and experimenting with AI-driven solutions.
+Hi, I’m Paras Godhani - a Data Analyst and Machine Learning Engineer with 1+ years of experience turning raw data into actionable insights and building intelligent solutions.
+
+🔹 Professional Experience
+
+Data Analyst (1 year): Analyzed 100k+ industry data rows, built dashboards in Tableau/Excel, and delivered insights to improve client decision-making for SMEs.
+
+ML Engineer Intern (4 months): Developed demand forecasting models for diamond and textile markets, improving accuracy by 18% and optimizing inventory planning.
+
+🔹 Technical Projects
+
+📄 Multi-PDF Chatbot – Streamlit + LangChain + Google GenAI app for querying multiple PDFs with semantic search.
+
+😊 Emotion Detection (FER-2013) – CNN/ResNet50v2 deep learning model deployed with Gradio for real-time emotion recognition.
+
+✈️ Flight Price Prediction Web App – Flask-based ML app predicting flight fares using regression models and feature engineering.
+
+💰 Financial Data Extraction with OpenAI – Automated financial insights pipeline leveraging LLMs for faster data retrieval.
 
 
 ## 🌐 Socials:
