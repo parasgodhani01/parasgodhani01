@@ -14,12 +14,12 @@ I'm **Paras Godhani** 😊
 
  ### 💡 Technical Skills
  
- Programming            : Python, C, C++, SQL
- Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, Hugging Face, LangChain,LangGraph
- AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI
- Web & APIs             : Flask, FastAPI
- Cloud/DevOps           : AWS, Docker, Kubernetes, GitHub Actions, Jenkins
- Databases/Tools        : MySQL, Excel, Power BI, Tableau
+ Programming            : Python, C, C++, SQL  
+ Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, Hugging Face, LangChain,LangGraph  
+ AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI  
+ Web & APIs             : Flask, FastAPI  
+ Cloud/DevOps           : AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
+ Databases/Tools        : MySQL, Excel, Power BI, Tableau  
 
 
 ## 🌐 Socials:
