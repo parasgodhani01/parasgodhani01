@@ -6,9 +6,9 @@ I'm **Paras Godhani** 😊
 ---
 
 ### 💡 About Me
- AI/ML Solutions Architect proficient in architecting and operationalizing full-spectrum machine learning and deep learning
+ AI/ML Solutions with proficient in architecting and operationalizing full-spectrum machine learning and deep learning
  pipelines.Core expertise in high-performance predictive analytics, robust MLOps automation via cloud-native services (AWS
- SageMaker, Terraform, Docker, CI/CD with Jenkins/GitHub Actions).
+ SageMaker, Docker, CI/CD with Jenkins/GitHub Actions).
 
  ---
 
@@ -19,7 +19,7 @@ I'm **Paras Godhani** 😊
  AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI  
  Web & APIs             : Flask, FastAPI  
  Cloud/DevOps           : AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
- Databases/Tools        : MySQL, Excel, Power BI, Tableau  
+ Databases/Tools        : MySQL, Microsoft SQL Server, Excel, Tableau  
 
 
 ## 🌐 Socials:
