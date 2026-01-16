@@ -1,24 +1,18 @@
-# 👋 Hey there! Nice to see you.
+I’m a Machine Learning Engineer focused on building, deploying, and maintaining production-grade ML systems, not just training models in isolated notebooks.  
 
-I'm **Paras Godhani** 😊  
-**AI Engineer | Data Science Enthusiast**
+My work covers the full ML lifecycle: data extraction with SQL, feature engineering, model training, evaluation, and iteration, followed by API-based deployment and operationalization. I’ve worked across classical ML, deep learning, computer vision, and NLP, with increasing focus on LLM-based systems.  
 
----
+Technically, I build with Python, NumPy, Pandas, and Scikit-learn, and train models using TensorFlow, PyTorch, and Keras. I’ve implemented CNN-based vision pipelines, transformer and RAG architectures, and LLM workflows using Hugging Face, LangChain, and LangGraph, with attention to retrieval quality, latency, and failure modes.  
 
-### 💡 About Me
- AI/ML Solutions with proficient in architecting and operationalizing full-spectrum machine learning and deep learning
- pipelines.Core expertise in high-performance predictive analytics, robust MLOps automation via cloud-native services (AWS
- SageMaker, Docker, CI/CD with Jenkins/GitHub Actions).
-
- ---
+From an engineering perspective, I deploy models via Flask and FastAPI, containerize with Docker, automate workflows using CI/CD, and operate systems on AWS and Kubernetes, prioritizing reproducibility, scalability, and long-term maintainability.  
 
  ### 💡 Technical Skills
  
  Programming            : Python, C, C++, SQL  
- Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, Hugging Face, LangChain,LangGraph  
+ Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, LangChain,LangGraph  
  AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI  
  Web & APIs             : Flask, FastAPI  
- Cloud/DevOps           : AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
+ Cloud/DevOps           : AWS, Docker, GitHub Actions, Jenkins  
  Databases/Tools        : MySQL, Microsoft SQL Server, Excel, Tableau  
 
 
