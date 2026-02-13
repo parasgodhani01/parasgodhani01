@@ -11,12 +11,12 @@ Data Platforms - SQL-driven analytics, feature engineering workflows, and automa
 
  ### 💡 Technical Skills
  
-Skills & Interests
-Programming: Python, C++, SQL
-Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, Jenkins, Amazon Web Services (AWS)
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph
-Techniques and Algorithms: Machine Learning, Supervised Learning, Unsupervised Learning, Time Series Analysis, Dimensionality Reduction, Deep Learning, Long Short-Term Memory (LSTM), NLP (Natural Language Processing), Retrieval-Augmented Generation (RAG)
-Soft Skills: Communication, Problem-Solving, Analytical Thinking, Adaptability, Growth Mindset
+Skills & Interests  
+Programming: Python, C++, SQL  
+Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, Jenkins, Amazon Web Services (AWS)  
+Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph  
+Techniques and Algorithms: Machine Learning, Supervised Learning, Unsupervised Learning, Time Series Analysis, Dimensionality Reduction, Deep Learning, Long Short-Term Memory (LSTM), NLP (Natural Language Processing), Retrieval-Augmented Generation (RAG)  
+Soft Skills: Communication, Problem-Solving, Analytical Thinking, Adaptability, Growth Mindset  
 
 
 
