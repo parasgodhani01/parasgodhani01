@@ -4,10 +4,10 @@ Machine Learning Engineer building production-grade AI systems from data to depl
 I specialize in taking ML models from notebooks to production APIs, with focus on system reliability, scalability, and real-world performance. My work spans the full ML lifecycle: from SQL-based data extraction and feature engineering to model training, containerized deployment, and operational monitoring.  
 
 ### 🎯 What I Build  
-End-to-End ML Systems — Not just models, but complete pipelines including data ingestion, feature stores, model serving APIs, monitoring, and CI/CD automation.  
-LLM-Powered Applications — Production RAG systems, multi-document chatbots, and LLM-based extraction pipelines with attention to retrieval quality, latency budgets, and failure handling.  
-Computer Vision Pipelines — CNN-based classifiers deployed via Flask/FastAPI with Docker containerization and cloud infrastructure on AWS.  
-Data Platforms — SQL-driven analytics, feature engineering workflows, and automated reporting systems using Python, Pandas, and visualization tools.  
+End-to-End ML Systems - Not just models, but complete pipelines including data ingestion, feature stores, model serving APIs, monitoring, and CI/CD automation.  
+LLM-Powered Applications -  Production RAG systems, multi-document chatbots, and LLM-based extraction pipelines with attention to retrieval quality, latency budgets, and failure handling.  
+Computer Vision Pipelines - CNN-based classifiers deployed via Flask/FastAPI with Docker containerization and cloud infrastructure on AWS.  
+Data Platforms - SQL-driven analytics, feature engineering workflows, and automated reporting systems using Python, Pandas, and visualization tools.  
 
  ### 💡 Technical Skills
  
