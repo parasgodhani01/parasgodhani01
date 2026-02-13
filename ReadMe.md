@@ -9,11 +9,11 @@ From an engineering perspective, I deploy models via Flask and FastAPI, containe
  ### 💡 Technical Skills
  
  Programming            : Python, C, C++, SQL  
- Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, LangChain,LangGraph  
+ Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Hugging Face, LangChain,LangGraph  
  AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI  
  Web & APIs             : Flask, FastAPI  
  Cloud/DevOps           : AWS, Docker, GitHub Actions, Jenkins  
- Databases/Tools        : MySQL, Microsoft SQL Server, Excel, Tableau  
+ Databases/Tools        : MySQL, Microsoft SQL Server, Tableau  
 
 
 ## 🌐 Socials:
