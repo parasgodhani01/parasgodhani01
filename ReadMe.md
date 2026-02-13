@@ -1,19 +1,21 @@
-I’m a Machine Learning Engineer focused on building, deploying, and maintaining production-grade ML systems, not just training models in isolated notebooks.  
-
-My work covers the full ML lifecycle: data extraction with SQL, feature engineering, model training, evaluation, and iteration, followed by API-based deployment and operationalization. I’ve worked across classical ML, deep learning, computer vision, and NLP, with increasing focus on LLM-based systems.  
-
-Technically, I build with Python, NumPy, Pandas, and Scikit-learn, and train models using TensorFlow, PyTorch, and Keras. I’ve implemented CNN-based vision pipelines, transformer and RAG architectures, and LLM workflows using Hugging Face, LangChain, and LangGraph, with attention to retrieval quality, latency, and failure modes.  
-
-From an engineering perspective, I deploy models via Flask and FastAPI, containerize with Docker, automate workflows using CI/CD, and operate systems on AWS and Kubernetes, prioritizing reproducibility, scalability, and long-term maintainability.  
+Hi, I am Paras Godhani  
+Machine Learning Engineer building production-grade AI systems from data to deployment.  
+I specialize in taking ML models from notebooks to production APIs, with focus on system reliability, scalability, and real-world performance. My work spans the full ML lifecycle: from SQL-based data extraction and feature engineering to model training, containerized deployment, and operational monitoring.  
+🎯 What I Build  
+End-to-End ML Systems — Not just models, but complete pipelines including data ingestion, feature stores, model serving APIs, monitoring, and CI/CD automation.  
+LLM-Powered Applications — Production RAG systems, multi-document chatbots, and LLM-based extraction pipelines with attention to retrieval quality, latency budgets, and failure handling.  
+Computer Vision Pipelines — CNN-based classifiers deployed via Flask/FastAPI with Docker containerization and cloud infrastructure on AWS.  
+Data Platforms — SQL-driven analytics, feature engineering workflows, and automated reporting systems using Python, Pandas, and visualization tools.  
 
  ### 💡 Technical Skills
  
- Programming            : Python, C, C++, SQL  
- Libraries/Frameworks   : NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Hugging Face, LangChain,LangGraph  
- AI/ML                  : Deep Learning, NLP, Transformers,Large Language Models (LLMs), RAG, Generative AI  
- Web & APIs             : Flask, FastAPI  
- Cloud/DevOps           : AWS, Docker, GitHub Actions, Jenkins  
- Databases/Tools        : MySQL, Microsoft SQL Server, Tableau  
+Skills & Interests
+Programming: Python, C++, SQL
+Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, Jenkins, Amazon Web Services (AWS)
+Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph
+Techniques and Algorithms: Machine Learning, Supervised Learning, Unsupervised Learning, Time Series Analysis, Dimensionality Reduction, Deep Learning, Long Short-Term Memory (LSTM), NLP (Natural Language Processing), Retrieval-Augmented Generation (RAG)
+Soft Skills: Communication, Problem-Solving, Analytical Thinking, Adaptability, Growth Mindset
+
 
 
 ## 🌐 Socials:
