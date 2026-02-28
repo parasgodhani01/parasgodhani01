@@ -10,9 +10,9 @@ Soft Skills: Analytical Thinking, Critical Thinking, Continuous Improvement, Cre
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |  
-|--------|-------------|------|  
-| **MultiPDF Chatbot** | [View →](https://github.com/parasgodhani01/Multipdf-Chatbot-LangChain-RAG-Streamlit-OpenAI-AWS) |  
-| **Waste Classification** |  [View →](https://github.com/parasgodhani01/Waste-Classification-Deep-Learning-Flask-Docker) |
-| **Flight Price Prediction** | [View →](https://github.com/parasgodhani01/End-to-End-Machine-Learning-Project-Flight-Price-Prediction) |
+| Project | Link |  
+|--------| ------|  
+| **MultiPDF Chatbot** | [View](https://github.com/parasgodhani01/Multipdf-Chatbot-LangChain-RAG-Streamlit-OpenAI-AWS) |  
+| **Waste Classification** |  [View](https://github.com/parasgodhani01/Waste-Classification-Deep-Learning-Flask-Docker) |
+| **Flight Price Prediction** | [View](https://github.com/parasgodhani01/End-to-End-Machine-Learning-Project-Flight-Price-Prediction) |
 ---
