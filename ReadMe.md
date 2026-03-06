@@ -12,7 +12,7 @@ Soft Skills: Analytical Thinking, Critical Thinking, Continuous Improvement, Cre
 
 | Project | Link |  
 |--------| ------|  
-| **Fraud detection system** | [View](https://github.com/parasgodhani01/Fraud-Detection-Machine-Learning-Model) |  
+| **Production based Fraud detection system** | [View](https://github.com/parasgodhani01/Production-based-ML-Model-Mlflow-FastAPI-Docker-Github-Actions-AWS) |  
 | **MultiPDF Chatbot** | [View](https://github.com/parasgodhani01/Multipdf-Chatbot-LangChain-RAG-Streamlit-OpenAI-AWS) |  
 | **Waste Classification** |  [View](https://github.com/parasgodhani01/Waste-Classification-Deep-Learning-Flask-Docker) |
 | **Flight Price Prediction** | [View](https://github.com/parasgodhani01/End-to-End-Machine-Learning-Project-Flight-Price-Prediction) |
