@@ -1,5 +1,5 @@
 ## Hi, I'm Paras Godhani👋
-Aspiring Data scientist with practical experience developing data-driven solutions in machine learning and applied AI based systems. Demand forecasting, deep learning, RAG-based chatbots, and ensemble prediction systems are just a few of the end-to-end projects I've worked on, deploying them in cloud and containerized environments. I take ownership of the process from raw data to actual impact, and I do more than just create models and  I also translate them into decisions that stakeholders can implement.
+Aspiring AI/ML Engineer with practical experience developing data-driven solutions in machine learning and applied AI based systems. Demand forecasting, deep learning, RAG-based chatbots, and ensemble prediction systems are just a few of the end-to-end projects I've worked on, deploying them in cloud and containerized environments. I take ownership of the process from raw data to actual impact, and I do more than just create models and  I also translate them into decisions that stakeholders can implement.
  
 ## Skills  
 Programming: Python, C++, SQL  
