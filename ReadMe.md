@@ -3,7 +3,7 @@ Aspiring AI/ML Engineer with practical experience developing data-driven solutio
  
 ## Skills  
 Programming: Python, C++, SQL  
-Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, AWS
+Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, AWS  
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph  
 Techniques & Algorithms: Machine Learning, Supervised & Unsupervised Learning, Time Series Analysis, Dimensionality Reduction, Deep Learning, LSTM, NLP, Retrieval-Augmented Generation (RAG), MLOps  
 Soft Skills: Analytical Thinking, Critical Thinking, Continuous Improvement, Creativity, Attention to Detail, Adaptability, Team Building, Ownership  
