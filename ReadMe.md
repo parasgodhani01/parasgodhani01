@@ -1,5 +1,5 @@
-## Hi, I'm Paras Godhani👋
-Innovative Machine Learning Engineer with 3+ years of experience designing, deploying, and scaling production-grade ML systems and AI-driven solutions. Deep expertise in the full ML lifecycle from data ingestion and feature engineering to model training, evaluation, deployment, and monitoring.  
+## Hi, I'm Paras Godhani
+Innovative Machine Learning Engineer with 2+ years of experience designing, deploying, and scaling production-grade ML systems and AI-driven solutions. Deep expertise in the full ML lifecycle from data ingestion and feature engineering to model training, evaluation, deployment, and monitoring.  
 Proficient in Python, TensorFlow, Scikit-learn, and LangChain, with strong MLOps capabilities using MLflow, Docker, GitHub Actions, and AWS/Azure cloud platforms. Experienced in building NLP pipelines, Generative AI applications, RAG architectures, and deep learning models that solve complex real-world problems.   
 Certified Microsoft Azure AI Fundamentals and AWS Certified ML Engineer, with a consistent track record of reducing model iteration cycles, improving prediction accuracy, and delivering scalable ML infrastructure in fast-paced environments.
  
