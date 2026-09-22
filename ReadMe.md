@@ -3,12 +3,27 @@ Innovative Machine Learning Engineer with 2+ years of experience designing, depl
 Proficient in Python, TensorFlow, Scikit-learn, and LangChain, with strong MLOps capabilities using MLflow, Docker, GitHub Actions, and AWS/Azure cloud platforms. Experienced in building NLP pipelines, Generative AI applications, RAG architectures, and deep learning models that solve complex real-world problems.   
 Certified Microsoft Azure AI Fundamentals and AWS Certified ML Engineer, with a consistent track record of reducing model iteration cycles, improving prediction accuracy, and delivering scalable ML infrastructure in fast-paced environments.
  
-## Skills  
-Programming: Python, C++, SQL  
-Tools & Technologies: Git/GitHub, Flask, FastAPI, Tableau, MySQL, MLflow, Docker, GitHub Actions, AWS  
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph  
-Techniques & Algorithms: Machine Learning, Supervised & Unsupervised Learning, Time Series Analysis, Dimensionality Reduction, Deep Learning, LSTM, NLP, Retrieval-Augmented Generation (RAG), MLOps  
-Soft Skills: Analytical Thinking, Critical Thinking, Continuous Improvement, Creativity, Attention to Detail, Adaptability, Team Building, Ownership  
+## Technical Skills
+
+**Programming Languages:** Python, SQL, C++
+
+**ML & Deep Learning:** scikit-learn, TensorFlow, Keras, Transformers (Hugging Face), XGBoost, LightGBM, CatBoost
+
+**Generative AI & NLP:** LangChain, LangGraph, OpenAI API, RAG (Retrieval-Augmented Generation), Prompt Engineering, Vector Databases, NLP, Text Classification, Named Entity Recognition
+
+**MLOps & Deployment:** MLflow (Experiment Tracking, Model Registry), Docker, GitHub Actions, CI/CD Pipelines, FastAPI, Flask, REST API Development, Model Versioning, A/B Testing
+
+**Cloud Platforms:** AWS (S3, EC2, Lambda, SageMaker), Microsoft Azure (Azure ML, ADF, Databricks, ADLS Gen2)
+
+**Data Engineering:** Pandas, NumPy, ETL Pipelines, Feature Engineering, Data Preprocessing, Apache Spark
+
+**Databases:** MySQL, PostgreSQL, Azure SQL, Vector Stores (FAISS, Chroma)
+
+**Visualization & BI:** Matplotlib, Seaborn, Tableau, Power BI
+
+**Tools & Environments:** Jupyter Notebook, VS Code, Git, Azure DevOps, Streamlit
+
+**ML Techniques:** Classification, Regression, Clustering, Time Series Forecasting, Transfer Learning, Ensemble Methods, Hyperparameter Tuning, Cross-Validation, SHAP/Explainability 
 
 ## 🚀 Featured Projects
 
