@@ -25,13 +25,13 @@ Certified Microsoft Azure AI Fundamentals and AWS Certified ML Engineer, with a 
 
 **ML Techniques:** Classification, Regression, Clustering, Time Series Forecasting, Transfer Learning, Ensemble Methods, Hyperparameter Tuning, Cross-Validation, SHAP/Explainability 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Link |  
-|--------| ------|  
-| **Production ready Fraud detection system** | [View](https://github.com/parasgodhani01/Production-based-ML-Model-Mlflow-FastAPI-Docker-Github-Actions-AWS) |  
-| **MultiPDF Chatbot** | [View](https://github.com/parasgodhani01/Multipdf-Chatbot-LangChain-RAG-Streamlit-OpenAI-AWS) |  
-| **Waste Classification** |  [View](https://github.com/parasgodhani01/Waste-Classification-Deep-Learning-Flask-Docker) |
+| Project | Link |
+|--------|------|
+| **Personalized Medicine – Cancer Mutation Classifier** | [View](https://github.com/parasgodhani01/Personalized-Medicine-Redefining-Cancer-Treatment) |
+| **Production-Ready Fraud Detection System** | [View](https://github.com/parasgodhani01/Production-based-ML-Model-Mlflow-FastAPI-Docker-Github-Actions-AWS) |
+| **MultiPDF Chatbot** | [View](https://github.com/parasgodhani01/Multipdf-Chatbot-LangChain-RAG-Streamlit-OpenAI-AWS) |
+| **Waste Classification** | [View](https://github.com/parasgodhani01/Waste-Classification-Deep-Learning-Flask-Docker) |
 | **Flight Price Prediction** | [View](https://github.com/parasgodhani01/End-to-End-Machine-Learning-Project-Flight-Price-Prediction) |
-| **Spotify Data Analytics** | [View](https://github.com/parasgodhani01/Spotify-Data-Analysis-Project)|
----
+| **Spotify Data Analytics** | [View](https://github.com/parasgodhani01/Spotify-Data-Analysis-Project) |
